@@ -14,6 +14,7 @@ section: home
       {% endif %}
     </div>
     <div class="hero__col">
+ {% if home.image %}
       {% image
         home.image,
         home.image_alt,

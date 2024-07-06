@@ -1,6 +1,6 @@
 {
   "title": "Hi there,",
-  "image": "",
-  "image_alt": "",
+  "image": "/src/assets/img/logo.png",
+  "image_alt": "fern",
   "body": "I’m Miseda, a dynamic full-stack developer passionate about development. Specializing in JavaScript, React, Node.js, Express, and MongoDB."
 }

@@ -1,18 +1,24 @@
 ---
-title: Another NPM Package
-emoji: 💾
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: Wellness Retreat Landing Page
+emoji: 🌿🕉️🌺
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+summary: Landing page copy
+metaDescription: This is a sample meta description. If one is not present in
+  your page/project's front matter, the default metadata.desciption will be used
+  instead.
 tags:
   - javascript
   - node
 ---
+TRANSFORM YOUR LIFE IN THE HEART OF BALI
 
-### Task
+Discover Ancient Wisdom, Modern Luxury
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+At Sacred Waters Retreat, we blend thousand-year-old Balinese healing traditions with contemporary wellness practices. Our exclusive 7-day transformational journeys include:
 
-### Solution
+* Daily yoga and meditation in our treetop pavilion
+* Authentic healing ceremonies with local shamans
+* Farm-to-table cooking workshops
+* Luxury accommodation in private pool villas
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Limited to 12 guests per retreat. Early bird pricing: $3,995 (Save $1,000)

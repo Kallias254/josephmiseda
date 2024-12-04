@@ -1,5 +1,5 @@
 ---
-title: Luxury Resort Email Campaign 🛥️💆‍♀️
+title: Luxury Resort Email Campaign
 emoji: 🥂
 date: 2019-01-01T00:00:00.000Z
 summary: Resort Email Campaign

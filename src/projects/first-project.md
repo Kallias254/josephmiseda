@@ -1,19 +1,29 @@
 ---
-title: Cat Translation API
-emoji: 😺
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: Luxury Resort Email Campaign 🛥️💆‍♀️
+emoji: 🥂
 date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
+summary: Resort Email Campaign
+metaDescription: This is a sample meta description. If one is not present in
+  your page/project's front matter, the default metadata.desciption will be used
+  instead.
 tags:
   - golang
   - graphQL
   - aws
 ---
+Dear \[Name],
 
-### Task
+Imagine waking up to gentle waves lapping beneath your private overwater villa. The Indian Ocean stretches endlessly before you, its crystal-clear waters teeming with vibrant marine life.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+This isn't a dream. This is The Serenity Resort Maldives.
 
-### Solution
+Book by June 30 to receive:
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+* Complimentary sunset champagne cruise
+* Daily gourmet breakfast
+* Private butler service
+* Round-trip seaplane transfers
+
+Starting from $895 per night 
+
+\[Book Now Button]

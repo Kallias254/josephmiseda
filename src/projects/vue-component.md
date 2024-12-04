@@ -1,19 +1,20 @@
 ---
-title: Vue Date Picker
-emoji: 🗓
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: "Travel Blog Post: Hidden Gems of Portugal"
+emoji: 🥖🏺🎨🚶‍♂️
 date: 2019-01-01T00:00:00.000Z
-summary: This is a Vue component I made
+summary: Travel blog
+metaDescription: This is a sample meta description. If one is not present in
+  your page/project's front matter, the default metadata.desciption will be used
+  instead.
 tags:
   - javascript
   - vue
   - aws
 ---
+The Secret Side of Porto: Where Local Flavors Meet Timeless Charm
 
-### Task
+Porto's tourist crowds flock to the Ribeira district, but the city's soul lies in its lesser-known neighborhoods. In Bonfim, fourth-generation bakers still pull crusty loaves from century-old stone ovens before dawn. At Mercado do Bolhão, Maria has sold her homemade cheeses for three decades, each one aged to perfection in her family's cellar.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+These aren't just places; they're portals to Porto's authentic heart. Here's your insider's guide to experiencing the city like a local...
 
-### Solution
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+\[Continue reading...]

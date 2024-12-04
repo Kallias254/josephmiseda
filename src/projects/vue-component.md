@@ -1,6 +1,6 @@
 ---
 title: "Travel Blog Post: Hidden Gems of Portugal"
-emoji: 🥖🏺🎨🚶‍♂️
+emoji: 🏺
 date: 2019-01-01T00:00:00.000Z
 summary: Travel blog
 metaDescription: This is a sample meta description. If one is not present in
